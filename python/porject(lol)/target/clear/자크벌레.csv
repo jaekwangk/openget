@@ -1,0 +1,16 @@
+﻿,summonerName,championName,matchId,teamId,timePlayed,individualPosition,win,visionScore,assists,deaths,kills
+0,자크벌레,Kled,KR_5690132666,blue,1953,TOP,False,21,5,7,4
+1,자크벌레,Velkoz,KR_5690078919,red,1236,UTILITY,True,31,7,1,3
+2,자크벌레,Zac,KR_5690045646,red,1508,TOP,True,10,9,2,10
+3,자크벌레,Zed,KR_5689347874,blue,2189,MIDDLE,False,19,6,7,9
+4,자크벌레,Karma,KR_5689277157,red,2364,UTILITY,False,67,7,13,1
+5,자크벌레,Swain,KR_5689282618,blue,973,UTILITY,True,14,7,3,2
+6,자크벌레,Zed,KR_5689105428,blue,1403,MIDDLE,False,9,2,7,3
+7,자크벌레,DrMundo,KR_5689090876,red,974,TOP,False,8,1,6,0
+8,자크벌레,Zac,KR_5688731989,red,2415,TOP,True,16,13,11,10
+9,자크벌레,Pyke,KR_5688233602,blue,2346,UTILITY,True,73,10,6,3
+10,자크벌레,Rakan,KR_5688209631,red,1214,UTILITY,True,13,18,1,1
+11,자크벌레,Zac,KR_5688185930,blue,1698,MIDDLE,True,21,10,6,7
+12,자크벌레,Vex,KR_5688182983,red,1422,MIDDLE,False,16,1,4,2
+13,자크벌레,Zed,KR_5688130779,red,1534,MIDDLE,False,23,3,7,5
+14,자크벌레,Zac,KR_5686676175,blue,2131,MIDDLE,False,23,7,5,17

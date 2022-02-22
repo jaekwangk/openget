@@ -1,0 +1,21 @@
+﻿,summonerName,championName,matchId,teamId,timePlayed,individualPosition,win,visionScore,assists,deaths,kills
+0,깡패 룰루,Lulu,KR_5697206739,red,1001,UTILITY,False,23,1,4,1
+1,깡패 룰루,Yuumi,KR_5697202493,red,1469,UTILITY,True,47,10,1,1
+2,깡패 룰루,Yuumi,KR_5697166181,blue,1876,UTILITY,True,76,24,3,7
+3,깡패 룰루,Lulu,KR_5697094964,red,926,UTILITY,True,25,12,1,3
+4,깡패 룰루,Yuumi,KR_5697091131,blue,908,UTILITY,True,18,10,1,2
+5,깡패 룰루,Yuumi,KR_5697025118,blue,1823,UTILITY,False,67,23,9,2
+6,깡패 룰루,Yuumi,KR_5697002513,red,949,UTILITY,True,23,10,2,0
+7,깡패 룰루,Lulu,KR_5696971614,red,1008,UTILITY,False,26,4,3,0
+8,깡패 룰루,Yuumi,KR_5696946463,blue,1335,UTILITY,True,51,22,1,4
+9,깡패 룰루,Yuumi,KR_5696886417,red,1058,UTILITY,False,31,2,5,1
+10,깡패 룰루,Yuumi,KR_5696930891,blue,1396,UTILITY,True,43,21,0,1
+11,깡패 룰루,Yuumi,KR_5696778827,red,1804,UTILITY,False,68,16,6,0
+12,깡패 룰루,Yuumi,KR_5696748875,blue,1270,UTILITY,True,29,18,3,0
+13,깡패 룰루,Lulu,KR_5696785245,blue,971,UTILITY,True,35,6,1,1
+14,깡패 룰루,Yuumi,KR_5696741737,blue,1113,UTILITY,False,6,2,2,0
+15,깡패 룰루,Lulu,KR_5696609113,red,1250,UTILITY,False,15,1,4,0
+16,깡패 룰루,Yuumi,KR_5696589730,blue,1236,UTILITY,False,26,2,4,0
+17,깡패 룰루,Lulu,KR_5696559039,red,1117,UTILITY,True,26,6,2,4
+18,깡패 룰루,Elise,KR_5695950056,blue,1984,JUNGLE,False,51,11,6,7
+19,깡패 룰루,Lulu,KR_5695844079,red,1178,UTILITY,True,55,13,2,1

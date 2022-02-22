@@ -1,0 +1,14 @@
+﻿,summonerName,championName,matchId,teamId,timePlayed,individualPosition,win,visionScore,assists,deaths,kills
+0,탑갱오면지상렬,Malzahar,KR_5679255277,red,1576,TOP,True,19,8,0,3
+1,탑갱오면지상렬,Ryze,KR_5679211965,blue,1755,TOP,False,16,1,7,2
+2,탑갱오면지상렬,Malzahar,KR_5651693742,red,1470,TOP,True,19,9,4,2
+3,탑갱오면지상렬,Yone,KR_5634938203,blue,1433,TOP,True,13,8,5,3
+4,탑갱오면지상렬,Sett,KR_5634899197,red,974,TOP,False,7,0,7,2
+5,탑갱오면지상렬,Yone,KR_5620004864,blue,1835,TOP,True,20,10,6,3
+6,탑갱오면지상렬,Sylas,KR_5610228590,blue,1012,TOP,False,5,2,3,1
+7,탑갱오면지상렬,Sett,KR_5610127928,red,2036,TOP,True,16,12,6,9
+8,탑갱오면지상렬,Galio,KR_5595379473,red,1222,UTILITY,True,24,9,2,1
+9,탑갱오면지상렬,Ryze,KR_5595316918,blue,620,TOP,True,0,0,0,2
+10,탑갱오면지상렬,Sett,KR_5592654570,blue,1620,TOP,True,21,5,5,6
+11,탑갱오면지상렬,Viktor,KR_5587460686,red,2511,TOP,True,27,5,4,12
+12,탑갱오면지상렬,FiddleSticks,KR_5587314320,red,2107,JUNGLE,False,107,11,9,7
