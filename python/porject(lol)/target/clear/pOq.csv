@@ -1,0 +1,17 @@
+﻿,summonerName,championName,matchId,teamId,timePlayed,individualPosition,win,visionScore,assists,deaths,kills
+0,pOq,Ezreal,KR_5687684612,red,1984,UTILITY,True,65,12,4,2
+1,pOq,Morgana,KR_5687407576,blue,1727,UTILITY,True,42,17,9,3
+2,pOq,Lux,KR_5687401666,red,1359,UTILITY,True,25,10,3,15
+3,pOq,Morgana,KR_5686858709,red,1779,UTILITY,True,63,19,6,2
+4,pOq,Lux,KR_5686844695,blue,1139,UTILITY,True,23,10,1,8
+5,pOq,Morgana,KR_5685442494,blue,1433,UTILITY,True,44,12,5,4
+6,pOq,Blitzcrank,KR_5685336949,red,1376,UTILITY,False,26,7,3,1
+7,pOq,Morgana,KR_5685321522,blue,1213,UTILITY,True,22,12,0,4
+8,pOq,Pyke,KR_5685134990,blue,1482,UTILITY,True,40,10,7,7
+9,pOq,Blitzcrank,KR_5681421057,blue,2105,UTILITY,False,77,13,6,1
+10,pOq,Lux,KR_5681315091,blue,1671,UTILITY,False,51,4,9,1
+11,pOq,Morgana,KR_5681268194,red,1264,UTILITY,False,33,8,5,0
+12,pOq,MissFortune,KR_5681177294,blue,2500,UTILITY,True,115,21,12,6
+13,pOq,Morgana,KR_5681143035,blue,951,UTILITY,True,21,9,0,2
+14,pOq,Blitzcrank,KR_5681062064,blue,2224,UTILITY,True,59,11,5,4
+15,pOq,Lulu,KR_5680954253,blue,1569,UTILITY,False,29,5,2,0

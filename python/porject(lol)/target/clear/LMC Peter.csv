@@ -1,0 +1,11 @@
+﻿,summonerName,championName,matchId,teamId,timePlayed,individualPosition,win,visionScore,assists,deaths,kills
+0,LMC Peter,Yuumi,KR_5687212794,blue,1909,UTILITY,True,54,17,5,3
+1,LMC Peter,Yuumi,KR_5687106277,red,1574,UTILITY,True,39,12,3,0
+2,LMC Peter,Karma,KR_5683114432,red,1108,UTILITY,True,38,15,0,6
+3,LMC Peter,Yuumi,KR_5683000950,blue,2036,UTILITY,True,67,15,3,1
+4,LMC Peter,Karma,KR_5682894435,blue,1406,UTILITY,True,63,23,8,6
+5,LMC Peter,Yuumi,KR_5680395365,red,1753,UTILITY,True,57,19,3,5
+6,LMC Peter,Khazix,KR_5678152385,blue,2357,JUNGLE,True,53,12,7,12
+7,LMC Peter,Khazix,KR_5678076534,red,1166,JUNGLE,False,10,4,4,0
+8,LMC Peter,Khazix,KR_5677988011,blue,2181,JUNGLE,True,34,10,6,8
+9,LMC Peter,Khazix,KR_5677920634,red,2409,JUNGLE,False,59,15,11,9

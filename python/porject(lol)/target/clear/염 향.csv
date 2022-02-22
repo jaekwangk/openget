@@ -1,0 +1,17 @@
+﻿,summonerName,championName,matchId,teamId,timePlayed,individualPosition,win,visionScore,assists,deaths,kills
+0,염 향,Blitzcrank,KR_5686605343,blue,1547,UTILITY,False,46,11,8,1
+1,염 향,Nami,KR_5685725503,blue,1274,UTILITY,False,10,6,9,4
+2,염 향,Rell,KR_5685731787,blue,1335,UTILITY,True,38,11,7,4
+3,염 향,Nautilus,KR_5685569609,blue,1685,UTILITY,True,60,13,5,2
+4,염 향,Thresh,KR_5685623037,red,1584,UTILITY,False,40,6,8,1
+5,염 향,Ezreal,KR_5684519213,blue,1937,BOTTOM,False,11,8,6,3
+6,염 향,Kaisa,KR_5684485410,blue,1630,BOTTOM,False,11,5,4,7
+7,염 향,Yone,KR_5683827313,red,1631,TOP,True,28,4,7,1
+8,염 향,Karma,KR_5683775438,blue,2271,UTILITY,True,75,41,6,7
+9,염 향,Rell,KR_5683821928,blue,1671,UTILITY,False,56,16,7,1
+10,염 향,Lulu,KR_5681842539,red,2077,UTILITY,True,58,19,7,2
+11,염 향,Thresh,KR_5681718595,blue,2178,UTILITY,False,94,28,9,8
+12,염 향,Karma,KR_5681648142,red,1746,UTILITY,True,62,10,5,1
+13,염 향,Karma,KR_5679543110,blue,1084,UTILITY,True,21,7,3,1
+14,염 향,Poppy,KR_5679101742,blue,1511,JUNGLE,True,25,8,4,8
+15,염 향,Leona,KR_5678996140,blue,1499,UTILITY,True,40,16,1,2

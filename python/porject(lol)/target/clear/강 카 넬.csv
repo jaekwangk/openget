@@ -1,0 +1,9 @@
+﻿,summonerName,championName,matchId,teamId,timePlayed,individualPosition,win,visionScore,assists,deaths,kills
+0,강 카 넬,JarvanIV,KR_5687983166,blue,1386,JUNGLE,False,19,7,7,1
+1,강 카 넬,Talon,KR_5687991257,red,2349,JUNGLE,False,25,4,9,7
+2,강 카 넬,Talon,KR_5687858800,red,1749,JUNGLE,True,20,8,6,12
+3,강 카 넬,Talon,KR_5687766103,blue,1033,JUNGLE,False,7,5,9,4
+4,강 카 넬,Diana,KR_5687790140,blue,1955,JUNGLE,False,40,10,5,5
+5,강 카 넬,Diana,KR_5687641100,blue,1476,JUNGLE,True,16,16,4,9
+6,강 카 넬,JarvanIV,KR_5687292192,blue,1902,JUNGLE,True,30,18,4,8
+7,강 카 넬,XinZhao,KR_5687212794,blue,1909,JUNGLE,True,33,11,4,4

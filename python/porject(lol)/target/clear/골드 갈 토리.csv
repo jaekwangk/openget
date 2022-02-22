@@ -1,0 +1,21 @@
+﻿,summonerName,championName,matchId,teamId,timePlayed,individualPosition,win,visionScore,assists,deaths,kills
+0,골드 갈 토리,MissFortune,KR_5689832532,blue,1613,UTILITY,False,29,6,9,1
+1,골드 갈 토리,MissFortune,KR_5689910407,blue,1863,UTILITY,True,67,14,5,4
+2,골드 갈 토리,MissFortune,KR_5689739071,blue,1861,UTILITY,True,47,8,6,1
+3,골드 갈 토리,MissFortune,KR_5689755712,blue,2197,UTILITY,True,91,25,8,4
+4,골드 갈 토리,MissFortune,KR_5689802042,red,1895,UTILITY,False,68,15,10,2
+5,골드 갈 토리,Sett,KR_5689578503,red,1267,TOP,False,14,0,4,0
+6,골드 갈 토리,Teemo,KR_5689439766,blue,2057,TOP,True,27,3,2,1
+7,골드 갈 토리,Yone,KR_5689512320,blue,1446,MIDDLE,False,15,1,4,1
+8,골드 갈 토리,Ahri,KR_5689321319,blue,2766,MIDDLE,True,39,18,8,5
+9,골드 갈 토리,Karma,KR_5689240191,blue,1934,TOP,False,24,7,7,1
+10,골드 갈 토리,Karma,KR_5687950777,blue,1881,TOP,True,12,14,2,5
+11,골드 갈 토리,Yone,KR_5687838818,red,1951,TOP,True,17,4,8,4
+12,골드 갈 토리,Teemo,KR_5687874691,blue,1710,TOP,True,20,5,7,8
+13,골드 갈 토리,Sett,KR_5687871162,blue,1779,TOP,True,17,9,6,6
+14,골드 갈 토리,Cassiopeia,KR_5687795810,red,1963,MIDDLE,False,25,6,7,1
+15,골드 갈 토리,Soraka,KR_5687709804,red,1928,UTILITY,False,65,8,3,0
+16,골드 갈 토리,Teemo,KR_5681714236,red,1231,TOP,False,11,2,4,1
+17,골드 갈 토리,Ahri,KR_5681722947,blue,1330,MIDDLE,False,22,8,7,2
+18,골드 갈 토리,Lux,KR_5681681501,blue,974,MIDDLE,False,8,2,3,2
+19,골드 갈 토리,Lux,KR_5681587168,red,2043,MIDDLE,True,28,17,1,6
